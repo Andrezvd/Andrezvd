@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🔭 Currently working on small-scale C++<br>      projects to enhance problem-solving skills.<br>🔭 Developing a 3D cross-platform game using Unreal Engine.<br>🔭 Creating a website for a game project.<br>🌱 Eagerly learning software development<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently learning<br>💬 Ask me about developing software or games<br>
 
@@ -12,15 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Andrezvd&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrezvd&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezvd&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Andrezvd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Andrezvd&icon=7&color=3)](https://visitcount.itsvg.in)
