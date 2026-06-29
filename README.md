@@ -1,22 +1,22 @@
 # 💫 About Me:
-Currently working on medium free-lancer proyects<br>      projects to enhance problem-solving skills.<br> Developing a 3D cross-platform game using Unity.<br> .<br>🌱 Eagerly learning software development and getting certified<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently open to work <br>💬 Ask me about developing software<br>
+Currently working on medium free-lancer proyects<br>   projects to enhance problem-solving skills.<br> Developing a 3D cross-platform game using Unity.<br> 🌱 Eagerly learning software development and getting certified<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently open to work <br>💬 Ask me about developing software<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andrezvd) 
 
 # 💻 Tech Stack:
-FULL STACK 1: Spring Boot + React + MySQL
-FULL STACK 2: .NET 8 + Angular + Postgrees
+FULL STACK 1: Spring Boot + React + MySQL<br>
+FULL STACK 2: .NET 8 + Angular + Postgrees<br>
 
-CI/CD 
+CI/CD <br>
 GCP, AWS, GIT, GITHUB ACTIONS
 
-TESTING
+TESTING<br>
 
-JUNIT, MOKITO, 
+JUNIT, MOKITO, <br>
 
-DATA ANALISYS
+DATA ANALISYS<br>
 
 Python, pyspark, hadoop, elastik search.
 # 📊 GitHub Stats:
