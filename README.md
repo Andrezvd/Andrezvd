@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on small-scale C++<br>      projects to enhance problem-solving skills.<br>🔭 Developing a 3D cross-platform game using Unreal Engine.<br>🔭 Creating a website for a game project.<br>🌱 Eagerly learning software development<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently learning<br>💬 Ask me about developing software or games<br>
+Currently working on medium free-lancer proyects<br>      projects to enhance problem-solving skills.<br> Developing a 3D cross-platform game using Unity.<br> .<br>🌱 Eagerly learning software development and getting certified<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently open to work <br>💬 Ask me about developing software<br>
 
 
 ## 🌐 Socials:
