@@ -1,20 +1,15 @@
-# 💫 About Me:
-Currently working on medium free-lancer proyects<br>   projects to enhance problem-solving skills.<br> Developing a 3D cross-platform game using Unity.<br> 🌱 Eagerly learning software development and getting certified<br>      and seeking opportunities to collaborate <br>      with software companies.<br>🤝 Excellent teamwork and communication abilities.<br>🌱 I’m currently open to work <br>💬 Ask me about developing software<br>
+Systems Engineer specialized in full-stack software development with experience in modular architectures, layers,
+microservices, hexagonal, and DDD Lite. Experience in CI/CD with GitHub Actions, GHRC, professional Gitflows,
+and branch protection. I can work with two stacks: Spring Boot with React or .NET with Angular using TypeScript
+or JavaScript depending on system requirements, along with Docker, integrating OAuth with Google, and cloud
+deployments on both GCP and AWS.
+I apply the complete software development life cycle: requirements, UML diagramming, SCRUM with JIRA, SOLID
+and Clean Code, containerization with Docker, and CI/CD.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andrezvd) 
 
-# 💻 Tech Stack:
-FULL STACK 1: Spring Boot + React + MySQL<br>
-FULL STACK 2: .NET 8 + Angular + Postgrees<br>
-
-CI/CD <br>
-GCP, AWS, GIT, GITHUB ACTIONS
-
-TESTING<br>
-
-JUNIT, MOKITO, <br>
 
 DATA ANALISYS<br>
 
